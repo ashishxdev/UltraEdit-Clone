@@ -39,7 +39,9 @@
             row-gap: 20px;
             column-gap: 30px;
             margin: 20px auto;
-            width: 900px;
+             width: 100%;
+             max-width: 900px;
+             padding: 0 15px;
             /* height: 600px; */
         }
 
@@ -108,7 +110,8 @@
         }
         .download{
             display: flex;
-            margin: 0px 300px;
+            margin: 0 auto;
+            padding: 0 15px;
             align-items: center;
             column-gap: 10px;
         }
@@ -116,16 +119,25 @@
             justify-content: center;
             align-content: center;
         }
-        @media screen and (max-width: 1145px) {
+        @media screen and (max-width: 768px) {
         .container{ 
-        grid-template-columns: 1fr;
+         grid-template-columns: 1fr;
+         row-gap: 15px;
         }
-        .box{
-            width: 30vh;
-            margin: 0vh auto;
+        .box {
+        width: 100%;
+        margin: auto;
         }
         .moreless{
             font-size: 4px;
             word-break: break-all;
+        }
+        .text {
+        font-size: 28px;
+        text-align: center;
+        }
+        .op {
+        width: 90%;
+        font-size: 14px;
         }
 }
