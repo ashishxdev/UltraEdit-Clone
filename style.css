@@ -148,29 +148,33 @@ button {
     .download {
         margin: 0 auto;
         padding: 0 15px;
+    }
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    nav .logo img {
+        max-width: 120px; 
+        height: auto;
 
-        .moreless {
-            font-size: 4px;
-            word-break: break-all;
-        }
+    }
 
-        .text {
-            font-size: 20px;
-            text-align: center;
-        }
+    nav .right ul {
+        display: flex;
+        flex-direction: row; 
+        gap: 10px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
 
-        .op {
-            font-size: 10px;
-            width: 90%;
-        }
-        .textbo{
-            font-size: 20px;
-        }
-        .po {
-            width: 30px;
-        }
-        /* .nav{
-            width: 100vh;
-        } */
+    nav .right ul li {
+        font-size: 14px;
+    }
+
+    nav svg {
+        width: 14px;
+        height: 14px;
     }
 }
