@@ -29,11 +29,8 @@ This project mimics the real UltraEdit design with attention to detail in **layo
 ---
 
 ## 📸 Screenshots  
-
-> *(Replace these placeholders with your own screenshots)*  
-
 ![Screenshot 1](./screenshot1.png)  
-![Screenshot 2](./screenshot2.png)  
+![Screenshot 2](./screenshotfinaldown.png)  
 
 ---
 
@@ -42,7 +39,7 @@ This project mimics the real UltraEdit design with attention to detail in **layo
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/your-username/ultraedit-clone.git
-   ## 🚀 Open the HTML file
+2. ## 🚀 Open the HTML file
 Just open `index.html` in your browser — no server required!  
 
 ---
@@ -60,12 +57,11 @@ Just open `index.html` in your browser — no server required!
 ## 💡 Ideas for Improvement
 - Add dark mode toggle 🌙  
 - Implement dropdown menus with JavaScript  
-- Make download links functional with real files  
 
 ---
 
 ## 🌍 Live Demo
-🔗 [**View Live Project**](https://your-live-demo-link.com)  
+🔗 [**View Live Project**](https://ultra-edit-clone-kappa.vercel.app/)  
 
 ---
 
@@ -74,4 +70,4 @@ If you **liked** this project, please consider giving it a **star** ⭐ — it r
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Aashish Rana
