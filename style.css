@@ -110,8 +110,8 @@
         }
         .download{
             display: flex;
-            margin: 0 auto;
-            padding: 0 15px;
+            margin: 0 300px;
+/*             padding: 0 15px; */
             align-items: center;
             column-gap: 10px;
         }
