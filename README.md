@@ -38,7 +38,7 @@ This project mimics the real UltraEdit design with attention to detail in **layo
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ultraedit-clone.git
+   git clone https://github.com/ashishxdev/UltraEdit-Clone.git
 2. ## 🚀 Open the HTML file
 Just open `index.html` in your browser — no server required!  
 
